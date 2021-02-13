@@ -1,0 +1,40 @@
+{
+    "name": "paste-on-ts-playground",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "build": "webpack --mode production",
+        "start": "webpack --mode development --watch"
+    },
+    "dependencies": {
+        "add": "^2.0.6",
+        "file-loader": "^6.2.0",
+        "fs-extra": "^9.1.0",
+        "lz-string": "^1.4.4",
+        "react": "^17.0.1",
+        "react-dom": "^17.0.1",
+        "react-monaco-editor": "^0.42.0",
+        "styled-components": "^5.2.1",
+        "webextension-polyfill-ts": "^0.24.0",
+        "yarn": "^1.22.10"
+    },
+    "devDependencies": {
+        "@types/chrome": "^0.0.129",
+        "@types/copy-webpack-plugin": "^6.4.0",
+        "@types/fs-extra": "^9.0.7",
+        "@types/react": "^17.0.1",
+        "@types/react-dom": "^17.0.0",
+        "@types/styled-components": "^5.1.7",
+        "@types/webpack": "^4.41.26",
+        "copy-webpack-plugin": "^7.0.0",
+        "css-loader": "^5.0.2",
+        "monaco-editor-webpack-plugin": "^3.0.0",
+        "style-loader": "^2.0.0",
+        "ts-loader": "^8.0.17",
+        "ts-node": "^9.1.1",
+        "typescript": "^4.1.5",
+        "webpack": "^5.21.2",
+        "webpack-cli": "^4.5.0"
+    }
+}
