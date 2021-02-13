@@ -1,13 +1,13 @@
 {
-    "compilerOptions": {
-        "esModuleInterop": true,
-        "jsx": "react-jsx",
-        "lib": ["esnext", "dom"],
-        "module": "commonjs",
-        "moduleResolution": "node",
-        "outDir": "dist/js",
-        "sourceMap": true,
-        "target": "es5",
-        "strict": true
-    }
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "jsx": "react-jsx",
+    "lib": ["esnext", "dom"],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "outDir": "dist/js",
+    "sourceMap": true,
+    "target": "es5",
+    "strict": true
+  }
 }

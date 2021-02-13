@@ -1,1 +1,1 @@
-declare module "lz-string";
+declare module 'lz-string';

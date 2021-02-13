@@ -1,1 +1,1 @@
-export const tsColor = "#719af4";
+export const tsColor = '#719af4';
