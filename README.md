@@ -1,6 +1,6 @@
 ## Paste on TS playground
 
-This extension enables to copy code snippet and paste it on [TS playground](https://www.typescriptlang.org/play).
+This extension enables to copy code snippets and paste them on [TS playground](https://www.typescriptlang.org/play).
 
 ![image](https://user-images.githubusercontent.com/15242484/107845769-73c1f800-6e21-11eb-83b1-9cd2acbcee75.png)
 
@@ -8,7 +8,7 @@ If you select the code block and click "Paste on ts playground" on the menu as a
 
 ### Install
 
-Downaload `.crx` file on the [release page](https://github.com/uraway/paste-on-ts-playground/releases/) and manually install into your browser.
+Download `.crx` file on the [release page](https://github.com/uraway/paste-on-ts-playground/releases/) and manually install into your browser.
 
 ### Develop
 
