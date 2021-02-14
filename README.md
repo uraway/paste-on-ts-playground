@@ -8,7 +8,9 @@ If you select the code block and click "Paste on ts playground" on the menu as a
 
 ### Install
 
-Download `.crx` file on the [release page](https://github.com/uraway/paste-on-ts-playground/releases/) and manually install into your browser.
+1. Download `dist.zip` file on the [release page](https://github.com/uraway/paste-on-ts-playground/releases/) and unzip
+2. Type `chrome://extensions` in the address bar
+3. "Load unpack extension" and load the unzipped "dist".
 
 ### Develop
 
